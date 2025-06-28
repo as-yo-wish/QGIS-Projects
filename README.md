@@ -14,10 +14,12 @@ This project analyzes accessibility zones around a central bus station in Baghda
 - Used QuickOSM plugin to import road and bus data from OpenStreetMap
 - Applied Buffer, Reproject Layer, and Symbology tools
 - Background basemap: OSM Standard
+
+  ![Image](https://github.com/user-attachments/assets/d919b255-8c29-4a0a-a4f4-896e31f90760)
+
   
 > Goal: Show how far people can travel on foot or by vehicle from a key public transport hub.
 
-![Image](https://github.com/user-attachments/assets/d919b255-8c29-4a0a-a4f4-896e31f90760)
 ---
 
 ### 2.  3D Map of Qandil Mountain
@@ -31,9 +33,12 @@ Focused on Qandil Mountain in Northern Iraq, this project visualizes terrain ele
 - Created a Hillshade layer for enhanced terrain effect
 - Rendered the entire scene in 3D Map View
 
-> Goal: Highlight Qandil Mountain's topography and surroundings in a realistic 3D visualization.
 
 ![Image](https://github.com/user-attachments/assets/fb482338-8089-46d6-a10a-ad30b3b34014)
+
+
+> Goal: Highlight Qandil Mountain's topography and surroundings in a realistic 3D visualization.
+
 ---
 
 ### 3.  Iraq Population Density Map
@@ -47,9 +52,12 @@ A thematic map showing population density across Iraq.
 - Applied Graduated Symbology based on density values
 - Used color gradient to represent varying density levels
 
-> Goal: Visualize how population distribution varies across Iraq’s regions.
 
 ![Image](https://github.com/user-attachments/assets/63b09de5-f5e1-4297-af12-32e5dac87e16)
+
+
+
+> Goal: Visualize how population distribution varies across Iraq’s regions.
 
 ---
 
@@ -61,9 +69,11 @@ This project shows elevation changes in Northern Iraq using contour lines and a 
 - Created Contour lines from elevation data
 - Enhanced readability with proper labeling and layout tools
 
-> Goal: Provide a detailed look at terrain elevation and slope changes in Northern Iraq.
 
 ![Image](https://github.com/user-attachments/assets/ac53be38-d975-4249-a5e5-b322348c8541)
+
+
+> Goal: Provide a detailed look at terrain elevation and slope changes in Northern Iraq.
 ---
 
 ## Tools & Technologies
